@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Calculator</title>
+		<title>Calculadora</title>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,7 +11,7 @@
 	<body>
 		
 		<div class="container" style="margin-top: 50px">
-		    <!-- Calculator form -->
+		    <!-- Formulário da calculadora -->
 		    <form method="post" action="teste.php">
 		        <input name="numero1" type="text" class="form-control" style="width: 150px; display: inline" />
 		        <select name="operacao">
